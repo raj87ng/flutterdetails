@@ -10,3 +10,4 @@ Note : FlutterTextDisplay : Project used as a base project and will add only mod
 4. FlutterPartThree : Updated files with loginpage , pubspec.yaml etc
 5. FlutterPartFour : Updated files with loginPage : Login Fields , Login Button with Animation and validation on input text.
                      Also Login page rendering with StateFullWidget.
+6. FlutterPartFive : Updated code with List view in Homepage and update drawer with icons and image.
