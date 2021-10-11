@@ -11,3 +11,4 @@ Note : FlutterTextDisplay : Project used as a base project and will add only mod
 5. FlutterPartFour : Updated files with loginPage : Login Fields , Login Button with Animation and validation on input text.
                      Also Login page rendering with StateFullWidget.
 6. FlutterPartFive : Updated code with List view in Homepage and update drawer with icons and image.
+7. FlutterPartSix : Updated code with List view in Homepage and Load items from JSON file.

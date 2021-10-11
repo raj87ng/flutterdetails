@@ -7,4 +7,5 @@
 5. Login Page with Image , Text fields and button (FlutterPart3.pdf)
 6. Login Fields , Login Button with Animation and validation on input text. (FlutterPart4.pdf)
 7. Drawer Update and list of Items display (FlutterPart5.pdf)
+8. HomePage updated with ListView and items load from json file (FlutterPart6.pdf)
 
