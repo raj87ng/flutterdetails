@@ -9,4 +9,6 @@
 7. Drawer Update and list of Items display (FlutterPart5.pdf)
 8. HomePage updated with ListView and items load from json file (FlutterPart6.pdf)
 9. List View with Velocity lib and with custom approach (FlutterPart7.pdf)
-
+10. Functionality switch between dark and light theme and cart some functionality added (FlutterPart8.pdf)
+11. Badge added on Floating Checkout button to show number of items in cart and also implement cart page to add or remove items.
+    (FlutterPart9.pdf)

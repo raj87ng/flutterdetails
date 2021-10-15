@@ -13,5 +13,7 @@ Note : FlutterTextDisplay : Project used as a base project and will add only mod
 6. FlutterPartFive : Updated code with List view in Homepage and update drawer with icons and image.
 7. FlutterPartSix : Updated code with List view in Homepage and Load items from JSON file.
 8. FlutterPartSeven : Files with List View in Home page with velocity lib and solved Unsound Null Safety
+9. FlutterPartEight: DarkMode and Cart Logic implementation.
+10. FlutterPartNine : Badge added to show number of items in checklist and remove and add functionality if items from cart.
 
 Thanks to Pawan Kumar for sharing all above knowledge. I have created above docs for knowledge and learning purpose.
